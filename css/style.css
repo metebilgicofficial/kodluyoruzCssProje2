@@ -1,0 +1,56 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#inputbox {
+    background-color: #eeeeee;
+}
+
+input {
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+td {
+
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    vertical-align: top;
+    border: 1px none #000000;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 0;
+    vertical-align: middle;
+}
+
+#td1 {
+    width: 33%;
+    background-color: #7EE5DA;
+}
+
+#td2 {
+    width: 25%;
+    background-color: #70CCC2;
+}
+
+#td3 {
+    background-color: #62B3AA;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#footer {
+    text-align: center;
+    font-size: small;
+}
